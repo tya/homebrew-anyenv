@@ -1,4 +1,4 @@
-class Anyenv < Formula
+class BrewAnyenv < Formula
   desc "anyenv - all in one for **env" if respond_to? :desc
   homepage "https://github.com/riywo/anyenv"
   # url "https://github.com/riywo/anyenv/archive/v1.0.0.tar.gz"
